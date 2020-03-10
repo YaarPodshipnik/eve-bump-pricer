@@ -1,7 +1,8 @@
 # eve-bump-pricer
 
 A tiny, simple, script to monitor cliboard for EVE online orders,
-calculate new +/-0.01 price, and put it back to clipboard.
+calculate new price accodring to March 2020 tick rules, and 
+put it back to clipboard.
 Helps dealing with updating multiple orders (no EULA-breaking
 automation).
 
